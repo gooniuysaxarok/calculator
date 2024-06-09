@@ -1,0 +1,86 @@
+.body1{
+    background-color: grey;
+    width: 1920px;
+    height: 1080px;
+}
+.mainblock{
+    background: aliceblue;
+    height: 900px;
+    width: 900px;
+    border-radius: 30px;
+    margin-left: 350px;
+}
+
+
+#input1{
+    border-radius: 5px;
+    margin-top: 100px;
+    margin-left: 100px;
+    width: 300px;
+    text-align: center;
+    height: 50px;
+    font-size: 25px;
+}
+#input2{
+    border-radius: 5px;
+    margin-top: 100px;
+    margin-left: 80px;
+    width: 300px;
+    text-align: center;
+    height: 50px;
+    font-size: 25px;
+}
+
+#plusbotton{
+font-size: 30px;border-radius: 10px;margin-top: 30px;
+margin-left: 150px;
+width: 200px;
+height: 50px;
+background-color: green;
+color: aliceblue;
+}
+#minusbotton{
+    font-size: 30px;border-radius: 10px;margin-top: 30px;
+    margin-left: 190px;
+    width: 200px;
+    height: 50px;
+    background-color: red;
+    color: aliceblue;
+}
+#sqbtn{
+    font-size: 30px;border-radius: 10px;margin-top: 15px;
+    margin-left: 150px;
+    width: 200px;
+    height: 50px;
+    background-color: rgb(146, 10, 244);
+    color: aliceblue;
+}
+#umbtn{
+    font-size: 30px;border-radius: 10px;margin-top: 30px;
+    margin-left: 190px;
+    width: 200px;
+    height: 50px;
+    background-color: rgb(235, 170, 18);
+    color: aliceblue;
+}
+#delbtn{
+    font-size: 30px;border-radius: 10px;margin-top: 30px;
+    margin-left: 150px;
+    width: 200px;
+    height: 50px;
+    background-color: rgb(225, 0, 255);
+    color: aliceblue;
+}
+#resultbotton{
+    font-size: 30px;border-radius: 10px;margin-top: 30px;
+    margin-left: 240px;
+    width: 450px;
+    background-color: rgb(36, 9, 238);
+    color: aliceblue;
+}
+.resultmaindiv{
+    margin-left: 70px;
+    margin-top: 20px;
+    text-align: center;
+    font-size: 40px;
+}
